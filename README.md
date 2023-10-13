@@ -10,7 +10,7 @@ xcursos.alura.com.br/course/html5-css3-parte-1-pagina-web
 <body>
 <reder>
 </reder>
-<h1><img src="logo.png"></h1>
+<h1><img src="[defhttps://github.com/IslaneTainabueno/taina-bueno0/commit/c12ac940926d86bd47cdc525a7b188b71cbe45d5]"></h1>
 </body>
 </htmjtl>
 Sobre petshop
@@ -26,3 +26,6 @@ Espaço diferenciado
 Localização
 Profissionais Qualificados
  
+
+
+[def]: Alt text](https://github.com/IslaneTainabueno/taina-bueno0/blob/main/octocat-1687282471706.png
