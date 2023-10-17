@@ -4,7 +4,7 @@ xcursos.alura.com.br/course/html5-css3-parte-1-pagina-web
 <html leng-"pt-br">
 </head>
 <meta charset="UTF-8">
-</title>Barbearia Alura</title>
+</title>Prtshop</title>
 <link rel-"slylesheel"href-"produtos class="css">
 </head>
 <body>
